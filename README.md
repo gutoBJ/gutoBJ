@@ -14,7 +14,7 @@
  
 <br>
  
-### Me segue nas redes abaixo!
+### Me segue nas redes sociais abaixo!
  
 <div>
   <a href="(https://www.instagram.com/augustobj_dev?igsh=MWtudmhzc3h0YmZ0eg==)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
